@@ -63,3 +63,4 @@
 - [Public Datasets](https://xinli.faculty.wvu.edu/publicly-available-datasets)
 
 - [西安电子科技大学影像处理系统实验室](https://see.xidian.edu.cn/vipsl/dataset.html)
+- [COIL-20 Data](https://cave.cs.columbia.edu/repository/COIL-20)
