@@ -1,1 +1,1 @@
-There are several types of model data, including "low rank tensor recovery", "Face Database".
+There are several types of model data, including "low rank tensor recovery", "face recognition".
